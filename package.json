@@ -9,7 +9,7 @@
   "main": "build/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thymikee/jest-preset-angular.git"
+    "url": "git+https://github.com/CMiksche/jest-preset-angular.git"
   },
   "bugs": {
     "url": "https://github.com/thymikee/jest-preset-angular/issues"
